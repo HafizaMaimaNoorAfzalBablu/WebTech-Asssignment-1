@@ -1,4 +1,5 @@
 Web Technologies - Assignment 01
+ 
  Overview
 A single-page professional web resume created using pure HTML5 and inline CSS for Web Technologies coursework.
 What Was Done
